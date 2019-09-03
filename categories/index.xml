@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IKKE SANT 艺可尚特</title>
+    <link>https://ikkesant.men/categories/</link>
+    <description>Recent content in Categories on IKKE SANT 艺可尚特</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ikkesant.men/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le Sculture</title>
+      <link>https://ikkesant.men/categories/le-sculture/</link>
+      <pubDate>Mon, 26 Mar 2018 21:55:00 +0200</pubDate>
+      
+      <guid>https://ikkesant.men/categories/le-sculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paint</title>
+      <link>https://ikkesant.men/categories/paint/</link>
+      <pubDate>Mon, 26 Mar 2018 21:55:00 +0200</pubDate>
+      
+      <guid>https://ikkesant.men/categories/paint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photograph</title>
+      <link>https://ikkesant.men/categories/photograph/</link>
+      <pubDate>Mon, 26 Mar 2018 21:55:00 +0200</pubDate>
+      
+      <guid>https://ikkesant.men/categories/photograph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://ikkesant.men/categories/technology/</link>
+      <pubDate>Fri, 30 Mar 2018 16:16:34 +0200</pubDate>
+      
+      <guid>https://ikkesant.men/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
